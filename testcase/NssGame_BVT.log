@@ -1,0 +1,10 @@
+case_id: xxx, case_name:xxx, test_result: success/failed, failed_reason:xxx, screenshot_link:xxx
+case_id: xxx, case_name:xxx, test_result: success/failed, failed_reason:xxx, screenshot_link:xxx
+...
+testScence(场景), btn_name(控件名称),test_result: success/failed, failed_reason(用例执行失败时记录):CRASH/TIMEOUT(找不到控件)/ERROR/ErrorPopup(游戏内报错弹窗), screenshot_link:xxx, （mmlog_link:xxx, log_link:xxx）每台设备只有一个
+1.机型
+2.账号/密码
+
+生成的结果：
+[[['\xe6\x88\xbf\xe9\x97\xb4', '/UIRoot/OG_LB_RoomView/AnchorTopLeft/Back', True, 'screenShot.png'], ['\xe6\x88\xbf\xe9\x97\xb4', '/UIRoot/OG_RoomListView/AnchorTopLeft/Top_all/ReturnBack', True, 'screenShot.png']], 
+[['\xe5\xaf\xb9\xe6\x88\x98\xe6\x88\xbf\xe9\x97\xb4', '/UIRoot/OG_LB_RoomView/AnchorTopLeft/Back', True, 'screenShot.png'], ['\xe5\xaf\xb9\xe6\x88\x98\xe6\x88\xbf\xe9\x97\xb4', '/UIRoot/OG_RoomListView/AnchorTopLeft/Top_all/ReturnBack', True, 'screenShot.png']]]

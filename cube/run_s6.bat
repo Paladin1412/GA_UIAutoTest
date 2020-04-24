@@ -1,0 +1,1 @@
+python main_perform.py --qqname=2751209856 --qqpwd=test001 --engineport=50031 --uiport=19000 --serial=05157df50c28da36

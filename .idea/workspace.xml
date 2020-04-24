@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="7cce54b6-2dc3-44a2-9cb8-3d2bbfde2853" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NssGame_BVT.log" beforeDir="false" afterPath="$PROJECT_DIR$/NssGame_BVT.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103200107.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103200114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103200120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103200146.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103200331.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103200412.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103200419.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103200523.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103200627.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103200653.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103200719.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103200857.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103200932.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103200956.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103201007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103201031.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103201052.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103201148.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103201219.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103201256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103201407.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103201504.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103201529.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/20190103201553.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_C_Com_DialogCommon1_Anchor_Button_Mid_Name(Blue).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_IG_LicenseSettleView_SucceededRoot_Right_ReturnBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_IG_TutorialDialog_Anchor_Tutorial_ForwardPanel_Button_PVP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_IG_TutorialDialog_Anchor_Tutorial_ForwardPanel_ECGMT_SPEED_SINGLE_GAME.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_IG_TutorialDialog_Anchor_Tutorial_ForwardPanel_MatchBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_IG_TutorialDialog_Anchor_Tutorial_ForwardPanel_PropsSlot_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_IG_TutorialDialog_Anchor_Tutorial_ForwardPanel_QTEView_QteEff_Lighrt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_IG_TutorialDialog_Anchor_Tutorial_ForwardPanel_SmallBoostButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_IG_TutorialDialog_Anchor_Tutorial_ForwardPanel_SmallBoostButton_BG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_IG_TutorialDialog_Anchor_Tutorial_ForwardPanel_StartBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_IG_TutorialDialog_Anchor_Tutorial_FullMask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_OG_FL_AccountLoginView_Login_AnchorCenter_LoginField_Buttons_QQLoginBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_OG_FL_CreateRoleView_DressUpPanel_AnchorBottom_AnchorBottom_Root_CreateRolePanel_EnsureBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_OG_FL_ServerChoseView_Start_AnchorBottom_Button_Big_Name(Yellow).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_OG_FL_ServerChoseView_Start_AnchorBottom_PopuPanel_PlatformChoicesList.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_OG_FL_UserAgreementDlg_AnchorCenter_Btns_Confirm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_OG_LB_GetNewVehicleView_AnchorButtom_AnimRoot_Offset_Btn_DriveBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_ViewProfiler_ConsoleDlg_AnchorCenter_Root_ToolsContainer_ScrollView_Gride_Btn(Clone)_BG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_ViewProfiler_ConsoleDlg_AnchorCenter_Root_ToolsContainer_ScrollView_Gride_SwitchPerformanceBuild_BG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_ViewProfiler_ConsoleDlg_AnchorCenter_Root_ToolsContainer_ScrollView_Gride_蹇嵎鍏ュ彛_BG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/screenshot/UIRoot_ViewProfiler_StaiticUI_Anchor_BtnRoot_Button.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ga_cubex" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="NewbieTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/NewbieTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+              <folding>
+                <marker date="1546516489163" expanded="true" signature="10511:10640" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyTestAPI.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testcase/MyTestAPI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="834">
+              <caret line="296" column="4" selection-start-line="296" selection-start-column="4" selection-end-line="296" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tools.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/tools.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="build.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-357" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autodownload.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autodownload.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1449">
+              <caret line="192" column="29" lean-forward="true" selection-start-line="192" selection-start-column="29" selection-end-line="192" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runner.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NssGame_BVT.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/NssGame_BVT.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2196">
+              <caret line="170" column="17" lean-forward="true" selection-start-line="170" selection-start-column="17" selection-end-line="170" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.tencent.cubex</find>
+      <find>excute</find>
+      <find>Button_Mid_Name(Blue)</find>
+      <find>/UIRoot/C_Com_DialogCommon1/Anchor/Button_Mid_Name(Blue)</find>
+      <find>gm_input</find>
+      <find>wait_room</find>
+      <find>/UIRoot/OG_LB_RoomView/AnchorTopLeft/RoomInfo/Title/RoomName</find>
+      <find>engine.swipe</find>
+      <find>cube</find>
+      <find>/UIRoot/OG_LB_ActivityDlg/AnchorCenter/Content/Button_Mid_CloseBtn</find>
+      <find>return_home</find>
+      <find>run</find>
+      <find>pig</find>
+      <find>ste</find>
+      <find>QQNAME</find>
+      <find>filepath</find>
+      <find>GameInGuidance</find>
+      <find>GameOutGuidance</find>
+      <find>_get_request_uri</find>
+      <find>getDeviceImageLink()[&quot;url&quot;]</find>
+      <find>game_start</find>
+      <find>game_end</find>
+      <find>InAndOut</find>
+      <find>engine.click_position(630, 640)</find>
+      <find>engine.click_position(890, 630)</find>
+      <find>xxx.png</find>
+      <find>&quot;getDeviceImageLink()&quot;</find>
+      <find>getDeviceImageLink()</find>
+      <find>&quot;xxx.png&quot;</find>
+      <find>screenshot</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>new</replace>
+      <replace>newbieInGame</replace>
+      <replace>newbieOutGame</replace>
+      <replace>Game_Start</replace>
+      <replace>Game_End</replace>
+      <replace>KnapsackInAndOut</replace>
+      <replace>screen_shot_click(find_elment_wait(&quot;/UIRoot/IG_TutorialDialog/Anchor/Tutorial/FullMask&quot;))</replace>
+      <replace>&quot;xxx.png&quot;</replace>
+      <replace>getDeviceImageLink()</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cube/test_scene_sample.py" />
+        <option value="$PROJECT_DIR$/cube/team_propgame.py" />
+        <option value="$PROJECT_DIR$/sample/test.py" />
+        <option value="$PROJECT_DIR$/cube/team_prop_game_re.py" />
+        <option value="$PROJECT_DIR$/cube/cube_protocol.py" />
+        <option value="$PROJECT_DIR$/testcase/uiroot.json" />
+        <option value="$PROJECT_DIR$/wpyscripts/common/socket_client.py" />
+        <option value="$PROJECT_DIR$/cube/rand_six_game.py" />
+        <option value="$PROJECT_DIR$/cube/socket_client.py" />
+        <option value="$PROJECT_DIR$/cube/mytest.py" />
+        <option value="$PROJECT_DIR$/cube/main_perform_universe.py" />
+        <option value="$PROJECT_DIR$/cube/cube_client.py" />
+        <option value="$PROJECT_DIR$/cube/main_stealpig_perform.py" />
+        <option value="$PROJECT_DIR$/testcase/client_autotest.py" />
+        <option value="$PROJECT_DIR$/cube/main_perform.py" />
+        <option value="$PROJECT_DIR$/cube/team_prop_game.py" />
+        <option value="$PROJECT_DIR$/wpyscripts/tools/baisc_operater.py" />
+        <option value="$PROJECT_DIR$/testcase/assist_tools.py" />
+        <option value="$PROJECT_DIR$/wpyscripts/wetest/device.py" />
+        <option value="$PROJECT_DIR$/testcase/api_tools.py" />
+        <option value="$PROJECT_DIR$/testcase/NewbieLeadTest.py" />
+        <option value="$PROJECT_DIR$/testcase/nsstest.py" />
+        <option value="$PROJECT_DIR$/testcase/runner.py" />
+        <option value="$PROJECT_DIR$/testcase/Confunc.py" />
+        <option value="$PROJECT_DIR$/testcase/MyTestAPI.py" />
+        <option value="$PROJECT_DIR$/wpyscripts/wetest/engine.py" />
+        <option value="$PROJECT_DIR$/testcase/test.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/wpyscripts/wetest/reporter.py" />
+        <option value="$PROJECT_DIR$/testcase/NewbieTest.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="62" />
+    <option name="y" value="3" />
+    <option name="width" value="1790" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GAutomator_NewbieSmoke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QQSpeedNewbieSmoke" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GAutomator_NewbieSmoke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QQSpeedNewbieSmoke" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GAutomator_NewbieSmoke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/mytemp/engine_pro/ga_cubex2/ga_cubex/cube/team_prop_game.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ga_cubex" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\QqSpdAuto\ga_newplayer\testcase" />
+      <recent name="E:\Work\nss_ga\ga_cubex\cube" />
+      <recent name="C:\Users\chancesong\PycharmProjects\ga_cubex" />
+      <recent name="C:\Users\chancesong\PycharmProjects\ga_cubex\cube" />
+      <recent name="C:\Users\chancesong\PycharmProjects\ga_cubex\testcase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\QqSpdAuto\NssGameSupport\QQSpeedNewbieSmoke\testcase\screenshot" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="NewbieTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GAutomator_NewbieSmoke" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/NewbieTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="build" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GAutomator_NewbieSmoke" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GAutomator_NewbieSmoke" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="nsstest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GAutomator_NewbieSmoke" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\QqSpdAuto\ga_newplayer\testcase\MyTestAPI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GAutomator_NewbieSmoke" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.build" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.nsstest" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.NewbieTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.NewbieTest" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.build" />
+        <item itemvalue="Python.nsstest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\v_chkaichen\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\QqSpdAuto\NssGameSupport\QQSpeedNewbieSmoke" />
+          <option name="myCopyRoot" value="E:\QqSpdAuto\NssGameSupport\QQSpeedNewbieSmoke" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\QqSpdAuto\NssGameSupport\QQSpeedNewbieSmoke" />
+          <option name="myCopyRoot" value="E:\QqSpdAuto\NssGameSupport\QQSpeedNewbieSmoke" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cce54b6-2dc3-44a2-9cb8-3d2bbfde2853" name="Default" comment="" />
+      <created>1509503218581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509503218581</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2154171" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49841604" weight="0.37586206" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32873562" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.3218391" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.50158393" side_tool="true" weight="0.254023" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3264368" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="32" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wpyscripts/tools/baisc_operater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wpyscripts/wetest/reporter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="171" column="8" selection-start-line="171" selection-start-column="8" selection-end-line="171" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103193742.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/Confunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103195254.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103195320.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103195324.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/UIRoot_OG_FL_ServerChoseView_Start_AnchorBottom_PopuPanel_PlatformChoicesList.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/UIRoot_OG_FL_UserAgreementDlg_AnchorCenter_Btns_Confirm.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/UIRoot_OG_FL_ServerChoseView_Start_AnchorBottom_Button_Big_Name(Yellow).png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/UIRoot_OG_FL_AccountLoginView_Login_AnchorCenter_LoginField_Buttons_QQLoginBtn.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/UIRoot_OG_FL_CreateRoleView_DressUpPanel_AnchorBottom_AnchorBottom_Root_CreateRolePanel_EnsureBtn.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/UIRoot_ViewProfiler_ConsoleDlg_AnchorCenter_Root_ToolsContainer_ScrollView_Gride_SwitchPerformanceBuild_BG.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/UIRoot_ViewProfiler_ConsoleDlg_AnchorCenter_Root_ToolsContainer_ScrollView_Gride_Btn(Clone)_BG.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103200331.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103200107.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103200114.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103200120.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103200146.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103200412.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103200523.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103201031.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103201007.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103200719.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103200956.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103200932.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103200857.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/UIRoot_ViewProfiler_StaiticUI_Anchor_BtnRoot_Button.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/UIRoot_ViewProfiler_ConsoleDlg_AnchorCenter_Root_ToolsContainer_ScrollView_Gride_蹇嵎鍏ュ彛_BG.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/UIRoot_C_Com_DialogCommon1_Anchor_Button_Mid_Name(Blue).png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/UIRoot_IG_LicenseSettleView_SucceededRoot_Right_ReturnBtn.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/UIRoot_IG_TutorialDialog_Anchor_Tutorial_ForwardPanel_PropsSlot_0.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/UIRoot_IG_TutorialDialog_Anchor_Tutorial_ForwardPanel_QTEView_QteEff_Lighrt.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103201052.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103201148.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103201256.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103201407.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103201219.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103200653.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103200419.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103200627.png" />
+    <entry file="file://$PROJECT_DIR$/testcase/screenshot/20190103201553.png" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="192" column="29" lean-forward="true" selection-start-line="192" selection-start-column="29" selection-end-line="192" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2196">
+          <caret line="170" column="17" lean-forward="true" selection-start-line="170" selection-start-column="17" selection-end-line="170" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/NssGame_BVT.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/tools.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autodownload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/NewbieTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding>
+            <marker date="1546516489163" expanded="true" signature="10511:10640" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/MyTestAPI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="296" column="4" selection-start-line="296" selection-start-column="4" selection-end-line="296" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
